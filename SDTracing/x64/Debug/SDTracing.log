@@ -1,0 +1,6 @@
+﻿  SDTracing.cpp
+C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\SDTracing\SDTracing.cpp(9,9): warning C4005: 'KERNEL_LOGGER_NAME': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\evntrace.h(1666,9):
+      see previous definition of 'KERNEL_LOGGER_NAME'
+  
+  SDTracing.vcxproj -> C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\x64\Debug\SDTracing.exe
