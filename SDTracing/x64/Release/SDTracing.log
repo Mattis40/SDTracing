@@ -1,0 +1,4 @@
+﻿  SDTracing.cpp
+SDTracing.obj : error LNK2001: symbole externe non résolu TdhGetEventInformation
+SDTracing.obj : error LNK2001: symbole externe non résolu TdhGetProperty
+C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\x64\Release\SDTracing.exe : fatal error LNK1120: 2 externes non résolus
