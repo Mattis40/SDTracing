@@ -1,6 +1,8 @@
 ﻿  SDTracing.cpp
-C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\SDTracing\SDTracing.cpp(82,17): warning C4244: 'initialisation' : conversion de 'double' en 'long', perte possible de données
-C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\SDTracing\SDTracing.cpp(83,18): warning C4244: 'initialisation' : conversion de 'double' en 'long', perte possible de données
-C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\SDTracing\SDTracing.cpp(260,1): warning C4715: 'stopKernelLogger' : les chemins de contrôle ne retournent pas tous une valeur
-C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\SDTracing\SDTracing.cpp(272,1): warning C4715: 'startTracing' : les chemins de contrôle ne retournent pas tous une valeur
-  SDTracing.vcxproj -> C:\Users\Mattis\OneDrive\Desktop\Cours\Semestre5\ProofOfConcept\SDTracing\x64\Debug\SDTracing.exe
+F:\BUT\S5\SAE\SDTracing\SDTracing\SDTracing\SDTracing.cpp(82,17): warning C4244: 'initialisation' : conversion de 'double' en 'long', perte possible de données
+F:\BUT\S5\SAE\SDTracing\SDTracing\SDTracing\SDTracing.cpp(83,18): warning C4244: 'initialisation' : conversion de 'double' en 'long', perte possible de données
+  Timer.cpp
+  Génération de code en cours...
+F:\BUT\S5\SAE\SDTracing\SDTracing\SDTracing\SDTracing.cpp(260): warning C4715: 'stopKernelLogger' : les chemins de contrôle ne retournent pas tous une valeur
+F:\BUT\S5\SAE\SDTracing\SDTracing\SDTracing\SDTracing.cpp(272): warning C4715: 'startTracing' : les chemins de contrôle ne retournent pas tous une valeur
+  SDTracing.vcxproj -> F:\BUT\S5\SAE\SDTracing\SDTracing\x64\Debug\SDTracing.exe
